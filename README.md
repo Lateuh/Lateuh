@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Alexy LEFEVRE</h1>
-<h3 align="center">A nice french fullstack dev junior</h3>
+<h3 align="center">A nice french fullstack dev</h3>
 
-- 🔭 I’m currently working at **CGI Company**
+- 🔭 I’m currently working at **Astek Company**
 
 - 🌱 I’m currently learning **TypeScript & Angular**
 
